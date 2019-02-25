@@ -1,0 +1,71 @@
+DiceGuysFinishLast game checklist
+--------------------------------------------------------------------------
+- Character concept art/Environment art completed(or close too it). -=_X_=-
+
+- Title of the game. -=__=-
+
+- low poly model of 1 character. -=__=-
+
+- low poly model of 1 enemy type. -=__=-
+
+- low poly model of 1 gun. -=__=-
+
+- Asset creation for game. (rocks, wood, trees, grass, houses, etc.) -=__=-
+
+- Animating 1 character and putting them in Unity and
+  being able to move around and shoot. -=__=-
+
+- Get most ideas and mechanics down and have a strong understanding of
+  the games premise. -=_X_=-
+
+DiceGuysFinishLast Ideas
+--------------------------------------------------------------------------
+- Find common/uncommon weapons lying around the map. When killing
+  a mini-boss you could obtain some sort of weapon as well or even a D20
+  to use in the dice dome.
+
+- Random events can occur, if the DM wants it to happen.(Randomly occurs 
+  Possibly a roll check. For example, if DM rolls higher than a 15 then 
+  a powerful enemy will appear, or possibly ammo rains from the sky.
+
+- The players can find dice drops (D-20) and roll the dice. Depending
+  on the value of the roll, the player will either get a high-tier 
+  weapon or a low-tier weapon. Dice value example for weapon tiers:
+  1 = common -- 2-5 = common or uncommon -- 6-10 = uncommon or rare --
+  11-15 = rare or epic -- 16-19 = epic or legendary --
+  20 = legendary.
+
+- If a player is having bad luck on dice rolls (anything lower than 5)
+  the player will get a bad luck streak and recieve a coin to flip, if
+  it lands on whatever they choose (heads or tails) they will recieve
+  a rare - legendary weapon. If it lands on the oppossite they recieve
+  a common or uncommon weapon.
+
+- Health pick-ups will be on the ground in a flask or food.
+  (or something more creative).
+
+- Overshield pick-ups will be a pair of dice(6d with heart logos)
+  you can find around the level and with it you can roll the dice and 
+  gain however much overshield the dice landed on. Ex: dice lands on
+  heart thats half colored in, you recieve half of what an overshield
+  can give.
+
+- Characters are selected in the beginning by using a menu full of
+  character sheets. The characters are presets and have no different
+  attributes, just cosmetics and personality. 
+
+- Fall damage is non-existant so we can have an even higher mobility
+  threshold whereas having fall damage would counteract some high
+  mobility traits.
+
+- When you recieve dice you throw it into a dice dome (popper), and
+  then like the board game trouble you pop the dice in the dome. When that
+  happens a digital counter on the dome will tell you the roll you got,
+  and depending on the rarity of the weapon will be an effect that occurs
+  when your gun is being spawned in the game.
+
+Ideas that are a indefinite
+--------------------------------------------------------------------------
+- Players can pick up dice that give power-ups to characters. Such as
+  movement speed, increased damage, increased health or something along
+  those lines.
