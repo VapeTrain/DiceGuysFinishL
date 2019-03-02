@@ -69,3 +69,5 @@ Ideas that are a indefinite
 - Players can pick up dice that give power-ups to characters. Such as
   movement speed, increased damage, increased health or something along
   those lines.
+
+- Players can pick up passive items in the game that alter their stats.
