@@ -70,4 +70,5 @@ Ideas that are a indefinite
   movement speed, increased damage, increased health or something along
   those lines.
 
-- Players can pick up passive items in the game that alter their stats.
+- When players pick up guns, they can come with a random effect for their
+  character, it will always be a buff, and not attatched to specific guns.
